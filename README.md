@@ -24,4 +24,8 @@ So this repository holds my standard Makefile and a small code sample using the 
 Ah and a last thing, I do not use the bootloader at all. I burn the code directly in the processor with
 `avrdude`.
 
+## Addendum
+
+Some chinese Arduino copies with the CH340 chip require to prepare your Linux box, otherwise they won't be 
+detected. Thanks to jd-apprentice the solution is easy! https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7
 
