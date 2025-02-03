@@ -27,5 +27,10 @@ Ah and a last thing, I do not use the bootloader at all. I burn the code directl
 ## Addendum
 
 Some chinese Arduino copies with the CH340 chip require to prepare your Linux box, otherwise they won't be 
-detected. Thanks to jd-apprentice the solution is easy! https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7
+detected. Thanks to jd-apprentice the solution is easy! 
+1. Download the Arduino IDE version 1.8.x
+2. Unpack the downloaded archive and find the file `arduino-linux-setup.sh`
+3. Execute it as root.
+
+https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7
 
