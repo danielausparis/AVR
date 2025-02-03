@@ -20,3 +20,8 @@ of the ugly macro stuff you'll find elsewhere.
 # Contents
 
 So this repository holds my standard Makefile and a small code sample using the above mentioned header.
+
+Ah and a last thing, I do not use the bootloader at all. I burn the code directly in the processor with
+`avrdude`.
+
+
