@@ -1,4 +1,4 @@
-# arduino
+# AVR software engineering
 Tips regarding ATMega328 programming.
 
 # Introduction
