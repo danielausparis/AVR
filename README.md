@@ -2,6 +2,7 @@
 Tips regarding ATMega328 programming.
 
 # Introduction
+
 I hate black boxes and IDEs in general, and MPLAB and Arduino IDE in particular. They try to support
 far too many functions, which is detrimental to their ergonomy and efficiency; and they
 break the KISS rule on top!
@@ -17,4 +18,5 @@ of the AT328 in terms of C structs; they allow you to write such nice things as 
 of the ugly macro stuff you'll find elsewhere. 
 
 # Contents
+
 So this repository holds my standard Makefile and a small code sample using the above mentioned header.
